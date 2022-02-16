@@ -34,7 +34,7 @@ For use with a webcam with a standard camera mount thread, you need to replace t
 - 1x Winmau Plasma Ring
 - 6x DIN 4762 M4x20 (mounting arm and feet to the ring)
 - 12x DIN 9021 M4 
-- 12x DIN 4032 M4
+- 6x DIN 4032 M4
 - 12x DIN 4762 M3x8 (mounting the lids onto the arms and the feet)
 - 12x DIN 4762 M2x10 (mounting camera modules to the arms)
 - 3x DIN 7997 5x40 Torx (mounting the feet to the wall)
